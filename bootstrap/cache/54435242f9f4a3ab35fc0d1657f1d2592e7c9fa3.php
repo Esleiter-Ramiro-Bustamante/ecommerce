@@ -1,0 +1,1 @@
+<h1>404 Ella no te ama</h1><?php /**PATH C:\xampp\htdocs\ecommerce\resources\views/errors/404.blade.php ENDPATH**/ ?>
